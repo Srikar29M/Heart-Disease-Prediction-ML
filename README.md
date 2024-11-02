@@ -82,14 +82,27 @@ The dataset used in this project is `heart.csv`, which contains the following fe
 
 ## Model Comparison and Evaluation
 
-- A comparison of model accuracies was generated using a DataFrame, showcasing the performance of various algorithms.
-- The accuracies of the models were as follows: Logistic Regression (79.51%), Decision Tree (98.54%), Random Forest (100.00%), and Support Vector Machine (88.29%).
-- The Random Forest model emerged as the best performer, achieving a perfect accuracy of 100%.
-- Based on the best model identified, a detailed classification report was generated for the Random Forest model.
-- The classification report provided metrics such as precision, recall, and F1-score for both classes (0 and 1).
-- The results indicated that both classes were predicted with perfect precision and recall, demonstrating the model's robustness.
-- The macro and weighted averages for precision, recall, and F1-score were all 1.00, further confirming the model's outstanding performance.
+- A comparison of model accuracies was created using a DataFrame to showcase algorithm performance.
+
+- Model accuracies were: 
+  - Logistic Regression: 79.51%
+  - Decision Tree: 98.54%
+  - Random Forest: 100.00%
+  - Support Vector Machine: 88.29%
+
+- The Random Forest model emerged as the best performer with a perfect accuracy of 100%.
+
+- A detailed classification report was generated for the Random Forest model, based on its performance.
+
+- The classification report included metrics such as precision, recall, and F1-score for both classes (0 and 1).
+
+- Results indicated that both classes were predicted with perfect precision and recall, demonstrating the model's robustness.
+
+- Macro and weighted averages for precision, recall, and F1-score were all 1.00, confirming outstanding performance.
+
 - These metrics highlight the effectiveness of the Random Forest algorithm in accurately predicting heart disease outcomes.
+
 - The comprehensive evaluation of model performance aids in understanding the predictive capabilities of different machine learning approaches.
-- The results emphasize the importance of model selection in achieving high accuracy in healthcare predictive modeling.
+
+- Results emphasize the importance of model selection in achieving high accuracy in healthcare predictive modeling.
 
