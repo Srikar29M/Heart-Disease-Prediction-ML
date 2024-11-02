@@ -34,6 +34,48 @@ The dataset used in this project is `heart.csv`, which contains the following fe
 - This project contributes to improving patient care and emphasizes the importance of data-driven approaches in healthcare.
 - Overall, the heart disease prediction project demonstrates the intersection of technology and healthcare, aiming for a positive impact on patient health.
 
+## Heart Disease Prediction Data Visualization
+
+- **Correlation Matrix:** A heatmap visualizing feature relationships, indicating correlation strength with the target variable (heart disease presence).
+
+- **Target Variable Distribution:** A countplot showing the distribution of patients with and without heart disease to assess class imbalance.
+
+- **Gender Distribution:** A countplot providing insights into the dataset's demographic makeup, exploring potential gender disparities in heart disease.
+
+- **Chest Pain Type vs. Target:** This countplot examines the relationship between chest pain types and heart disease presence, identifying risk correlations.
+
+- **Fasting Blood Sugar vs. Target:** A countplot illustrating how fasting blood sugar levels relate to heart disease outcomes and associated risk factors.
+
+- **Resting ECG Results vs. Target:** A countplot exploring the relationship between resting ECG results and heart disease for diagnostic insights.
+
+- **Exercise-induced Angina vs. Target:** This visualization assesses the impact of exercise-induced angina on heart disease outcomes, revealing possible associations.
+
+- **Age Distribution by Target:** A boxplot highlighting age distributions based on heart disease status, showing age-related patterns and central tendencies.
+
+- **Resting Blood Pressure by Target:** A boxplot presenting resting blood pressure distributions to identify significant differences between patient groups.
+
+- **ST Depression by Target:** This plot highlights differences in ST depression levels, a key indicator in diagnosing heart disease.
+
+- **Feature Correlations with Target:** A focused heatmap on correlations between features and the target variable, identifying significant heart disease predictors.
+
+- **Age Distribution by Target (Histogram):** A histogram detailing age distribution with density estimates for both classes (with and without heart disease).
+
+- **Max Heart Rate Achieved Distribution by Target (Histogram):** This visualization focuses on max heart rate achievements and their correlation with heart disease.
+
+- **Average Age of Patients with and without Heart Disease (Line Plot):** A line plot tracking average age trends for each heart disease category.
+
+- **Gender Distribution by Heart Disease (Stacked Bar Plot):** This visualization illustrates the relationship between gender and heart disease status, uncovering demographic trends.
+
+- **Distribution of Heart Disease (Pie Chart):** A pie chart showing the proportion of patients with and without heart disease for dataset balance representation.
+
+- **Chest Pain Type Distribution (Donut Chart):** A donut chart highlighting the prevalence of different chest pain types among patients.
+
+- **Average Cholesterol Levels by Age Group:** A line plot revealing variations in average cholesterol levels across different age groups.
+
+- **Count of Patients by Chest Pain Type:** A countplot showing patient distribution across different chest pain types for commonness understanding.
+
+- **Count of Patients by Fasting Blood Sugar Status:** This visualization details the count of patients above or below fasting blood sugar thresholds for health risk insights.
+
 
 
 # Heart Disease Prediction Data Visualization
