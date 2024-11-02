@@ -23,7 +23,7 @@ The dataset used in this project is `heart.csv`, which contains the following fe
 
 ---
 
-- - The heart disease prediction project uses machine learning techniques to identify individuals at risk of heart disease based on health-related factors.
+- The heart disease prediction project uses machine learning techniques to identify individuals at risk of heart disease based on health-related factors.
 - A comprehensive dataset is utilized, including attributes such as age, gender, blood pressure, cholesterol levels, and other clinical parameters.
 - The project analyzes patterns and correlations within the data to understand the factors contributing to heart disease.
 - Various machine learning models, such as Logistic Regression, Decision Trees, and Random Forests, are applied to predict the likelihood of heart disease occurrence.
