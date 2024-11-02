@@ -21,6 +21,7 @@ The dataset used in this project is `heart.csv`, which contains the following fe
 - `thal`: Thalassemia (1 = normal; 2 = fixed defect; 3 = reversable defect)
 - `target`: Presence of heart disease (1 = disease; 0 = no disease)
 
+---
 
 - - The heart disease prediction project uses machine learning techniques to identify individuals at risk of heart disease based on health-related factors.
 - A comprehensive dataset is utilized, including attributes such as age, gender, blood pressure, cholesterol levels, and other clinical parameters.
