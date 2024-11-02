@@ -1,3 +1,27 @@
+# Heart Disease Prediction Project
+
+## Overview
+This project aims to predict the presence of heart disease in patients using various features from a dataset. It employs data preprocessing, exploratory data analysis (EDA), and machine learning algorithms for prediction.
+
+## Dataset
+The dataset used in this project is `heart.csv`, which contains the following features:
+
+- `age`: Age of the patient
+- `sex`: Gender (1 = male; 0 = female)
+- `cp`: Chest pain type (0-3)
+- `trestbps`: Resting blood pressure (in mm Hg)
+- `chol`: Serum cholesterol in mg/dl
+- `fbs`: Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
+- `restecg`: Resting electrocardiographic results (0-2)
+- `thalach`: Maximum heart rate achieved
+- `exang`: Exercise induced angina (1 = yes; 0 = no)
+- `oldpeak`: ST depression induced by exercise relative to rest
+- `slope`: Slope of the peak exercise ST segment (0-2)
+- `ca`: Number of major vessels (0-3) colored by fluoroscopy
+- `thal`: Thalassemia (1 = normal; 2 = fixed defect; 3 = reversable defect)
+- `target`: Presence of heart disease (1 = disease; 0 = no disease)
+
+
 # Heart Disease Prediction Data Visualization
 
 Data visualization plays a crucial role in understanding the dataset, identifying patterns, and presenting insights clearly. Below are explanations of the various visualizations used in the analysis of heart disease prediction data.
